@@ -1,4 +1,4 @@
-# Tweeter-WeRateDog-Data-Wrangling-Project-
+# Tweeter WeRateDog Data Wrangling Project
 goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
 
 The project has two part:
