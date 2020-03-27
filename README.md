@@ -1,4 +1,5 @@
 # Tweeter WeRateDog Data Wrangling Project
+Author: Libin Guo
 goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
 
 The project has two part:
